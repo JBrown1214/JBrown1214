@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnnyArgo a student at Nova on the FTC Argonauts team
+- 👋 Hi, I’m @Jbrown1214 a student at Nova on the FTC Argonauts team
 - 👀 I’m interested in FTC Freight Frenzy
 - 🌱 I’m currently learning to code and CAD
 
