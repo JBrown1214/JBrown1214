@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jbrown1214 a student at Nova on the FTC Argonauts team
-- 👀 I’m interested in FTC Freight Frenzy
-- 🌱 I’m currently learning to code and CAD
+- 👋 Hi, I’m @Jbrown1214 a student at the University of Wisconsin Madison studying Computer Engineering and Computer Science
+- 👀 I’m interested learning more about data analysis and software development
+- 🌱 I’m currently learning to code in HTML
 
 <!---
 JohnnyArgo/JohnnyArgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
