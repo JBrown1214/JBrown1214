@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jbrown1214 a student at the University of Wisconsin Madison studying Computer Engineering and Computer Science
 - 👀 I’m interested learning more about data analysis and software development
-- 🌱 I’m currently learning to code in HTML
+- 🌱 I’m currently learning to code in HTML through the UW group of Harvard's DataMatch program
 
 <!---
 JohnnyArgo/JohnnyArgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
