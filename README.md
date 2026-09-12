@@ -1,6 +1,6 @@
 Hi! I'm Johnny Brown, a Junior at the University of Wisconsin Madison studying Computer Engineering.  
-- I work with Wisconsin Racing as a Controls Engineer, and was responsible for designing Torque Vectoring for the 226E car. I'm looking forward to the 2026-27 season, and am working with the Firmware team to facilitate our transition towards autonomous driving capabilities.
-- I'm currently strengthening my Verilog skills by working through the [HDLbits problem set](https://hdlbits.01xz.net/wiki/Problem_sets). I'm also working on a FIR project using a TANG 20k FPGA, big things coming soon!
+- I'm currently strengthening my Verilog skills by working on a FIR project using a TANG 20k FPGA, check out the repo! I'm also  working through the [HDLbits problem set](https://hdlbits.01xz.net/wiki/Problem_sets).
+- I work with Wisconsin Racing as a Controls Engineer, and was responsible for designing Torque Vectoring for the 227E car. I'm looking forward to the 2026-27 season, and am working with the Firmware team to facilitate our transition towards autonomous driving capabilities.
 - I'm interested in Controls, Embedded Systems, and Digital Design. 
 
 
